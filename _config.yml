@@ -4,9 +4,7 @@ title: ZAIRA SEFERBEKOVA | bioinformatician
 author: zaira
 email: sef.zaira@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hello! My name is Zaira and I'm a bioinformatician student from Moscow.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -15,7 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Zaira Seferbekova
-  tagline: Bioinformatician
+  tagline: bioinformatician
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
@@ -27,9 +25,8 @@ plainwhite:
     # linkedIn: in/thelehhman
     # rss: rss
     # dribbble: jekyll
-    # facebook: jekyll
+    facebook: zairaseferbekova
     # flickr:   jekyll
-    # instagram: jekyll
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
