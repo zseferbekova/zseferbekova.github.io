@@ -1,7 +1,8 @@
 remote_theme: thelehhman/plainwhite-jekyll
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+
+title: ZAIRA SEFERBEKOVA | bioinformatician
+author: zaira
+email: sef.zaira@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -13,17 +14,18 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: Zaira Seferbekova
+  tagline: Bioinformatician
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
-    rss: rss
+    instagram: feedthesparrowstoo
+    github:  zseferbekova
+    # twitter: thelehhman
+    # linkedIn: in/thelehhman
+    # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
@@ -55,13 +57,3 @@ theme: plainwhite
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
-
-plainwhite:
-  name: Zaira Seferbekova
-  tagline: Bioinformatician
-  date_format: "%b %-d, %Y"
-
-  social_links:
-    instagram: feedthesparrowstoo
-    github:  zseferbekova
-    #linkedIn: in/thelehhman # format: locale/username
