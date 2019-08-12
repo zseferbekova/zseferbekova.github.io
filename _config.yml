@@ -1,1 +1,10 @@
 remote_theme: thelehhman/plainwhite-jekyll
+plainwhite:
+  name: Zaira Seferbekova
+  tagline: Bioinformatician
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    instagram: feedthesparrowstoo
+    github:  zseferbekova
+    #linkedIn: in/thelehhman # format: locale/username
